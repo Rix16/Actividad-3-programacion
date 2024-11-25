@@ -1,0 +1,68 @@
+/*Estilos para el cuerpo*/
+
+body{
+font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+header{
+    background-color: brown;
+}
+
+
+p {
+font-weight: bold;
+
+}
+#p1 { background-color: beige;}
+
+
+
+.perfil{
+    width: 25%;
+    border: 5px solid rgb(255, 208, 0);
+    border-radius: 50%;
+}
+
+/* estilo de la Seccion 4*/
+.a16{
+    list-style-type: decimal;
+    font-style: normal;
+}
+
+.windows{
+    list-style-type: circle;
+}
+
+.Linux{
+    list-style-type: lower-roman;
+}
+
+.ARM{
+    list-style-type: lower-latin;
+}
+ul{
+    list-style-type: lower-latin;
+}
+ol{
+    list-style-type: lower-roman;
+    font-style: italic;
+
+
+}
+th, td
+{ 
+ 
+border: 2px solid brown;
+background-color: rgb(255, 146, 146);
+color: rgb(7, 17, 153);
+
+}
+table{
+    padding: 40px;
+}
+
+/*Session 5*/
+.genero{
+    display: inline;
+    margin: 10px auto;
+}
