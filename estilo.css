@@ -66,3 +66,18 @@ table{
     display: inline;
     margin: 10px auto;
 }
+
+input[type="text"],
+input[type="number"],
+input[type="email"],
+input[type="password"],
+ textarea, select
+{
+width: 95%;
+border-radius: 5px;
+padding: 15px auto;
+box-shadow: 3px;
+}
+select{
+    width: 100%;
+}
